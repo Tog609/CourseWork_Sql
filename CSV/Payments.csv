@@ -1,0 +1,7 @@
+RegistrationID,Amount,PaymentDate,PaymentMethod,PaymentStatus
+1,10.00,2026-05-20,Card,Paid
+2,10.00,2026-05-21,Card,Paid
+3,8.00,2026-05-25,Card,Paid
+4,5.00,2026-05-28,Cash,Paid
+5,7.50,2026-06-01,Card,Paid
+6,0.00,2026-06-03,Free,Confirmed

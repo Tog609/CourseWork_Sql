@@ -1,0 +1,7 @@
+EventID,UserID,Rating,Comment,ReviewDate
+1,64,5,"Great event!",2026-06-11
+1,65,4,"Good organization",2026-06-11
+2,78,5,"Amazing!",2026-06-16
+3,106,3,"Could be better",2026-06-21
+4,5,4,"Nice atmosphere",2026-06-26
+5,7,5,"Loved it!",2026-07-02
